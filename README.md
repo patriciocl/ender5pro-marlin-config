@@ -6,6 +6,9 @@
 * Bltouch ( triangle-lab)
 * Bltouch conectado a placa base en BL-TOUCH Optional port ( 5 pines )
 
+### Config Adicionales ###
+
+* En el Laminador Agregar G29 luego de G28;
 
 ### Pendiente ###
 
